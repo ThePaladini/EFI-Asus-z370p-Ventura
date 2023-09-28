@@ -8,6 +8,8 @@ Audio ports working, disabled sleep(for the integrated graphics, for some reason
 
 
 Using a MLLSE RX580 8GB 2048sp (the one with 1 HDMI, 3 display ports, NO DVI, and 8 energy pins). Cheap GPU, but try to stick with this brand and video ports, it will probally acept the same bios for the rx570 as i provided, and its a good entrance level gpu for hackintosh and way better than the IUHD630. With the flashed bios, the hackintosh should recognize it out of the box!
+![image](https://github.com/ThePaladini/EFI-Asus-z370p-Ventura/assets/82978181/14373644-0796-49b8-9fc9-e71f8a12a113)
+
 __________________________________________________________________
 
 UPDATE
