@@ -8,3 +8,10 @@ Audio ports working, disabled sleep(for the integrated graphics, for some reason
 
 
 Using a MLLSE RX580 8GB 2048sp (the one with 1 HDMI, 3 display ports, NO DVI, and 8 energy pins). Cheap GPU, but try to stick with this brand and video ports, it will probally acept the same bios for the rx570 as i provided, and its a good entrance level gpu for hackintosh and way better than the IUHD630. With the flashed bios, the hackintosh should recognize it out of the box!
+__________________________________________________________________
+
+UPDATE
+I could upgrade to Sonoma 14.0 out of the box, no changes needed.
+
+![Screenshot 2023-09-28 at 17 25 01](https://github.com/ThePaladini/EFI-Asus-z370p-Ventura/assets/82978181/f4ef04b8-406a-41a3-ac1c-9d6027cca5fe)
+
